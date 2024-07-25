@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+*.cfg
+aws.cfg
+.gitignore
+
 # Distribution / packaging
 .Python
 build/
